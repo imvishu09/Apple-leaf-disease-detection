@@ -1,7 +1,3 @@
-Your project for plant disease classification using TensorFlow looks well-structured! Here's a concise overview that incorporates all the information you've provided:
-
----
-
 # Plant Disease Classification using TensorFlow
 
 This repository implements a plant disease classification system using a Convolutional Neural Network (CNN) with TensorFlow. The model is trained on the PlantVillage dataset, specifically focusing on categorizing images of apple leaves into four classes: Apple scab, Black rot, Cedar apple rust, and Healthy.
@@ -50,8 +46,7 @@ The model is trained for 50 epochs with a batch size of 32. Training and validat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/plant-disease-classification.git
-   cd plant-disease-classification
+   git clone https://github.com/imvishu09/Apple-leaf-disease-detection.git
    ```
 
 2. Organize the PlantVillage dataset under `PlantVillage2/` directory.
