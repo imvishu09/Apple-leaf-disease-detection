@@ -1,0 +1,23 @@
+# Apple Leaf Diseases
+
+Apple black rot, cedar rust, scab leaf diseases
+
+## About Dataset
+
+The Apple Leaf Diseases Dataset is a comprehensive collection of images that are instrumental in the study and identification of various foliar diseases in apple trees. This dataset is a valuable resource for researchers, data scientists, and machine learning enthusiasts who are interested in plant pathology and agricultural technology.
+
+### Purpose
+
+The purpose of this dataset is to aid in the development of machine learning models capable of identifying the categories of diseases (apple black rot, cedar rust, and scab leaf diseases) in apples, thereby contributing to more effective disease management strategies in apple cultivation.
+
+### Diseases Covered
+
+- Apple Black Rot A fungal disease causing dark, sunken lesions on apples and leaves.
+- Cedar Rust A fungal disease resulting in bright orange, yellow, or red spots on leaves.
+- Scab Leaf Diseases A fungal infection leading to dark, scabby lesions on the leaves and fruit.
+
+### Dataset Features
+
+- Image Collection A diverse set of high-quality images capturing various stages and manifestations of the diseases.
+- Annotation Detailed annotations categorizing the diseases present in each image.
+- Metadata Additional data providing context such as location, time of capture, and environmental conditions.
