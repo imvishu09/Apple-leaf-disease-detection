@@ -2,6 +2,9 @@
 
 Apple black rot, cedar rust, scab leaf diseases
 
+##Dataset Link
+Link: https://www.kaggle.com/datasets/mhantor/apple-leaf-diseases
+
 ## About Dataset
 
 The Apple Leaf Diseases Dataset is a comprehensive collection of images that are instrumental in the study and identification of various foliar diseases in apple trees. This dataset is a valuable resource for researchers, data scientists, and machine learning enthusiasts who are interested in plant pathology and agricultural technology.
